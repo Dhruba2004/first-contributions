@@ -23,6 +23,7 @@ Rohit Raj
 - [Khushi Tiwari](https://github.com/Khushitiwari)
 - [Vijay Takbhate](https://github.com/vijaytakbhate2002)
 - Hi I am a Ali Hassan!! (https://github.com/HassanThePassionate)
+- Hi , I'm Dhruba Dutta Banik from India (https://github.com/Dhruba2004)
 - HII!! I am EraserNOOB!~~ (http://github.com/erasernoob)
 - [Koushik Mupparapu](https://github.com/SaFFireGHOST) **Koushik's first open source contribution
 - Hi I am Khoi(https://github.com/khoinguyen0412)
@@ -6662,6 +6663,7 @@ Parthiv Saikia
 - [Gabby Greer](https://github.com/gabbygreer)
 - [@eiramada](https://github.com/eiramada)
 - [Elton Armelini](https://github.com/EltonArmelini)
+- [Gary Meng](https://github.com/liutongechao)
 - [Konstantin Boykov](https://github.com/voidoid999)
 - [Himanshu Singh](https://github.com/hswrldwide)
 - [Aravind Gunasekaran](https://github.com/AravindGShanthi)
@@ -10462,3 +10464,4 @@ Hi,I'm Johns,(https://github.com/Sunhc11)from China,glad to meet yooooooou!
 - Hi, I'm [jcorrius](https://github.com/jcorrius) from Mallorca.
 - Hi, I'm [murali](https://github.com/muraliv030)
 - What's up guys! I'm [Sahil](https://github.com/sahil7886) from Indiana
+- Hi, I'm [Jacky Cheung](https://github.com/jackykh) from Hong Kong. I am a Frontend Developer. Welcome to my [Home Page](https://github.com/jackykh)
